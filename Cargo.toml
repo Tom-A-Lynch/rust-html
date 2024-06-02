@@ -1,0 +1,12 @@
+[package]
+name = "html-api-server"
+version = "0.1.0"
+authors = ["Tom Lynch <tom@lynch.com>"]
+description = "A custom HTML API server written in Rust"
+license = "GPL-3.0"
+repository = "https://github.com/Tom-A-Lynch/rust-html"
+readme = "README.md"
+edition = "2021"
+
+[dependencies]
+
